@@ -13,6 +13,7 @@ public class Main {
      * You can optionally run this to interactively try the three methods.
      * @param args parameters are unused
      */
+
     public static void main(String[] args) {
         final Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a string: ");
